@@ -14,10 +14,6 @@ This repository contains a SolidWorks model of a small LEGO Star Wars AT-AT. The
 
 All parts in this model were reverse-engineered using physical LEGO bricks. I measured each part with vernier calipers to accurately recreate them in SolidWorks. The final assembly closely matches the physical model in both appearance and scale.
 
-## 📷 Preview
-
-> *Coming soon: renders or screenshots of the final model inside SolidWorks.*
-
 ## 📌 Notes
 
 - This model is not affiliated with or endorsed by LEGO or Star Wars.
